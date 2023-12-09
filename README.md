@@ -55,7 +55,7 @@
 - In this website have also admin where admin manage all user role. Admin can delete any user or any services. Admin manage full website form admin dashboard.
 - Uses Technology:  React, Express, Firebase, React Router Dom, Tailwind, NodeJS, Jwt, Axios, DaisyUI.
 - Live Link:  https://home-repair-d1660.web.app/
-- GitHub Link:  https://home-repair-d1660.web.app/
+- GitHub Link:  https://github.com/FahimHasan683031/home-repair-client
 
 <br>
 
@@ -67,7 +67,25 @@
 - In this website have subscription plans for user if any user tack subscription he can read all premium posts.
 - Free or premium all user can post their own post but the post publish after admin approval.
 - Uses Technology:  React, Express, Firebase, React Router Dom, Tailwind, NodeJS, Jwt, Axios, DaisyUI.
-- Live Link:  https://home-repair-d1660.web.app/
 - User can update or delete their own post.
 - Admin can manage full website from admin dashboard. Admin can approve or decline any post admin also delete any post and user.
-- GitHub Link:  https://github.com/programming-hero-web-course1/b8a12-client-side-FahimHasan683031
+- Live Link:  https://home-repair-d1660.web.app/
+- GitHub Link:  https://github.com/FahimHasan683031/news-hub-client
+
+
+<br>
+
+### (Brand Shope)
+#### Type: Full Stack Website.
+#### Features
+
+- User Registration.
+- Password Validation.
+- Product upload and store mongodb databases using express.
+- Private Routing.
+- product updating.
+- Add to cart.
+- Delete product form cart page.
+- After login redirect user to destination.
+- Live Link:  https://brand-shop-b4dfc.web.app/
+- GitHub Link:  https://github.com/FahimHasan683031/brandShope-client
