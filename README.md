@@ -18,6 +18,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=FahimHasan683031" alt="GitHub Streak" />
   </a>
 </p>
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FahimHasan683031&theme=vue" alt="Fahim Hasan" /></p>
 
 <br>
 
@@ -40,3 +41,6 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
 </div>
+
+
+
