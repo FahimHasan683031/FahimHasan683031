@@ -18,7 +18,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=FahimHasan683031" alt="GitHub Streak" />
   </a>
 </p>
-<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FahimHasan683031&theme=vue" alt="Fahim Hasan" /></p>
+<p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FahimHasan683031&theme=vue" alt="Fahim Hasan" /></p>
 
 <br>
 
@@ -43,4 +43,31 @@
 </div>
 
 
+## Latest projects:
 
+
+### (Home Repair Services)
+#### Type: Full Stack Website.
+#### Features:
+- User can publish their own services.
+- User can book any services.
+- Every user have user dashboard. On the dashboard user manage their own services and schedules. User can accept or decline his schedules. User can cancel his bookings. User also  can do update his services.
+- In this website have also admin where admin manage all user role. Admin can delete any user or any services. Admin manage full website form admin dashboard.
+- Uses Technology:  React, Express, Firebase, React Router Dom, Tailwind, NodeJS, Jwt, Axios, DaisyUI.
+- Live Link:  https://home-repair-d1660.web.app/
+- GitHub Link:  https://home-repair-d1660.web.app/
+
+<br>
+
+### (News Hub)
+#### Type: Full Stack Website.
+#### Features:
+- Without login user can only visit home page.
+- After login user can visit another page  and read all free post as a  free user dont read premium postes.
+- In this website have subscription plans for user if any user tack subscription he can read all premium posts.
+- Free or premium all user can post their own post but the post publish after admin approval.
+- Uses Technology:  React, Express, Firebase, React Router Dom, Tailwind, NodeJS, Jwt, Axios, DaisyUI.
+- Live Link:  https://home-repair-d1660.web.app/
+- User can update or delete their own post.
+- Admin can manage full website from admin dashboard. Admin can approve or decline any post admin also delete any post and user.
+- GitHub Link:  https://github.com/programming-hero-web-course1/b8a12-client-side-FahimHasan683031
